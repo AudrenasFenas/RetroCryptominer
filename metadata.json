@@ -1,0 +1,6 @@
+{
+  "name": "Retro Crypto Miner",
+  "description": "An 8-bit retro styled crypto mining clicking game where you mine Solana, USDT, and Toncoin, buy upgrades, and compete on the global leaderboard!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
